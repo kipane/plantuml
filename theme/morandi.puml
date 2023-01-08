@@ -1,0 +1,65 @@
+skinparam backgroundColor #F9F8F4
+skinparam handwritten false
+
+skinparam sequence {
+ArrowColor #ABC8CC
+ArrowFontColor #7986CA
+ArrowFontName Iosevka SS01
+
+LifeLineBorderColor #D8E2DA
+LifeLineBackgroundColor #FFFFFF
+
+ParticipantBorderColor #FFFFFF
+ParticipantBackgroundColor #FCD8DA
+ParticipantFontName Iosevka SS01
+ParticipantFontSize 17
+ParticipantFontColor #FFFFFF
+
+ActorBorderColor #9F9DC8
+ActorBackgroundColor aqua
+ActorFontColor DeepSkyBlue
+ActorFontSize 17
+ActorFontName Iosevka SS01
+
+}
+
+skinparam database {
+    FontName Iosevka SS01
+    BorderColor #FFFFFF
+    FontColor #686789
+}
+
+skinparam collections {
+    FontName Iosevka SS01
+    BorderColor #FFFFFF
+    FontColor #686789
+}
+
+skinparam entity {
+    FontName Iosevka SS01
+    BorderColor #FFFFFF
+    FontColor #686789
+}
+
+skinparam control {
+    FontName Iosevka SS01
+    BorderColor #FFFFFF
+    FontColor #686789
+}
+
+skinparam boundary {
+    FontName Iosevka SS01
+    BorderColor #FFFFFF
+    FontColor #686789
+}
+
+skinparam actor {
+    FontName Iosevka SS01
+    BorderColor #FFFFFF
+    FontColor #686789
+}
+
+skinparam title {
+    FontName Iosevka SS01
+    FontColor #91A0A5
+}
